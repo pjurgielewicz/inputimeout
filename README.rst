@@ -27,14 +27,9 @@ inputimeout
 Description
 -----------
 
-Multi platform standard input with timeout
+Multi platform standard input with timeout. 
 
-Install
--------
-
-.. code:: bash
-
-    $ pip install inputimeout
+**NOTE:** This fork is tailored to work especially with `nogil CPython <https://github.com/colesbury/nogil>` - since there were vulnerabilities in the original code under LINUX platform.
 
 Usage
 -----
